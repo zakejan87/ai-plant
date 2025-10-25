@@ -1,0 +1,5 @@
+{
+  "name": "Plant Disease Diagnosis",
+  "description": "An AI-powered tool to diagnose plant diseases from leaf images. Upload a photo of a plant leaf, and the application will analyze it to determine if it's healthy or likely diseased, providing an accessible early-warning system for farmers and gardeners.",
+  "requestFramePermissions": []
+}
